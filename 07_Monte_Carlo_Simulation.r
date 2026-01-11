@@ -3,7 +3,7 @@
 # Class: Statistical Methods & Data Analysis
 # Professor: Dr. Barry Bodt
 # Date: 14th of October, 2024
-# Title: Assignment 7 - Monte Carlo Simulation of Means & Variances
+# Title: Assignment 07 - Monte Carlo Simulation of Means & Variances
 # ##############################################################################
 
 
