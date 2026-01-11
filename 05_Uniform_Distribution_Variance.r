@@ -3,7 +3,7 @@
 # Class: Statistical Methods & Data Analysis
 # Professor: Dr. Barry Bodt
 # Date: 23rd of September, 2024
-# Title: Assignment 4 - Example 3.10.6 Simulation
+# Title: Assignment 05 - Example 3.10.6 Simulation
 # ##############################################################################
 
 
