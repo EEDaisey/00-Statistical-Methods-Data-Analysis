@@ -3,7 +3,7 @@
 # Class: Statistical Methods & Data Analysis
 # Professor: Dr. Barry Bodt
 # Date: 18th of November, 2024
-# Title: Assignment 9 - Bayesian Statistics
+# Title: Assignment 09 - Bayesian Statistics
 # ##############################################################################
 
 
