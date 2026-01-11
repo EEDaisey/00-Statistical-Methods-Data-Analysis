@@ -3,7 +3,7 @@
 # Class: Statistical Methods & Data Analysis
 # Professor: Dr. Barry Bodt
 # Date: 7th of October, 2024
-# Title: Assignment 6 - Statistical Analysis
+# Title: Assignment 06 - Statistical Analysis
 # ##############################################################################
 
 
